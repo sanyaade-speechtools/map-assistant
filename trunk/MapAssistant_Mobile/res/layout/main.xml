@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+             android:orientation="vertical">
+
+  
+  <FrameLayout  android:layout_width="fill_parent"
+             	android:layout_height="fill_parent">
+	  <SurfaceView android:id="@+id/camera_view"
+	               android:layout_width="fill_parent"
+	               android:layout_height="fill_parent"
+	               android:layout_centerInParent="true"/>
+	               
+	  <ro.pub.stickier.ViewfinderView
+	      android:id="@+id/viewfinder_view"
+	      android:layout_width="fill_parent"
+	      android:layout_height="fill_parent"/>
+	      
+	  <ImageView 	android:id="@+id/actionbar_bottom"
+					android:layout_width="fill_parent"
+	               	android:layout_height="fill_parent"
+	               	/>
+	               	
+	  <ro.pub.stickier.CameraOverlay  
+	               android:id="@+id/result_points_view"
+                   android:layout_width="fill_parent"
+                   android:layout_height="fill_parent"
+                    />
+      
+   </FrameLayout>
+</LinearLayout>
