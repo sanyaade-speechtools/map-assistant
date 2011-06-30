@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/objectify-2.2.3.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.atom.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.crypto.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.fileupload.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.gae.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.gwt.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.jaas.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.jackson.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.jaxb.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.jaxrs.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.jibx.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.json.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.lucene.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.net.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.oauth.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.odata.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.rdf.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.servlet.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.spring.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.wadl.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.xml.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.codehaus.jackson.core.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/org.codehaus.jackson.mapper.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gson-1.7.1.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
