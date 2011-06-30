@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="codesrc"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="/home/daniel/Desktop/google-gson-1.7.1/gson-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/daniel/Downloads/restlet-android-2.1m5/lib/org.restlet.ext.httpclient.jar"/>
+	<classpathentry kind="lib" path="/home/daniel/Downloads/restlet-android-2.1m5/lib/org.restlet.ext.jackson.jar"/>
+	<classpathentry kind="lib" path="/home/daniel/Downloads/restlet-android-2.1m5/lib/org.restlet.ext.json.jar"/>
+	<classpathentry kind="lib" path="/home/daniel/Downloads/restlet-android-2.1m5/lib/org.restlet.ext.xml.jar"/>
+	<classpathentry kind="lib" path="/home/daniel/Downloads/restlet-android-2.1m5/lib/org.restlet.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
