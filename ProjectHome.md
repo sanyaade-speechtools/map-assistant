@@ -1,0 +1,1 @@
+A "virtual" map assistant.With the help of your camera and of course AR, your mobile phone will show you where you have to be on the map.
